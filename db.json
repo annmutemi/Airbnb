@@ -1,124 +1,144 @@
-{
+    {
     "airbnbs":[
         {
             "id": 1,
             "title": "Naivasha cottage",
             "description": "description 1",
-            "image": "./image/image1.webp"
+            "available": "Booked",
+            "image": "./images/image1.webp"
         },
         {
             "id": 2,
             "title": "Naivasha cottage",
             "description": "description 2",
-            "image": "./image/image2.webp"
+            "available": "available",
+            "image": "./images/image2.webp"
         },
         {
             "id": 3,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image3.jpg"
+            "description": "description 3",
+            "available": "Booked",
+            "image": "./images/image3.jpg"
         },
         {
             "id": 4,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image4.jpg"
+            "description": "description 4",
+            "available": "available",
+            "image": "./images/image4.jpg"
         },
         {
             "id": 5,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image5.jpg"
+            "description": "description 5",
+            "available": "Booked",
+            "image": "./images/image5.jpg"
         },
         {
             "id": 6,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image6.jpg"
+            "description": "description 6",
+            "available": "available",
+            "image": "./images/image6.jpg"
         },
         {
             "id": 7,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image7.jpg"
+            "description": "description 7",
+            "available": "Booked",
+            "image": "./images/image7.jpg"
         },
         {
             "id": 8,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image8.jpg"
+            "description": "description 8",
+            "available": "available",
+            "image": "./images/image8.jpg"
         },
         {
             "id": 9,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image9.jpg"
+            "description": "description 9",
+            "available": "Booked",
+            "image": "./images/image9.jpg"
         },
         {
             "id": 10,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image10.jpg"
+            "description": "description 10",
+            "available": "available",
+            "image": "./images/image10.jpg"
         },
         {
             "id": 11,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image11.jpg"
+            "description": "description 11",
+            "available": "Booked",
+            "image": "./images/image11.jpg"
         },
         {
             "id": 12,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image12.jpg"
+            "description": "description 12",
+            "available": "available",
+            "image": "./images/image12.jpg"
         },
         {
             "id": 13,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image13.jpg"
+            "description": "description 13",
+            "available": "Booked",
+            "image": "./images/image13.jpg"
         },
         {
             "id": 14,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image14.jpg"
+            "description": "description 14",
+            "available": "available",
+            "image": "./images/image14.jpg"
         },
         {
             "id": 15,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image15.jpg"
+            "description": "description 15",
+            "available": "available",
+            "image": "./images/image15.jpg"
         },
         {
             "id": 16,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image16.jpg"
+            "description": "description 16",
+            "available": "Booked",
+            "image": "./images/image16.jpg"
         },
         {
             "id": 17,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image17.jpg"
+            "description": "description 17",
+            "available": "available",
+            "image": "./images/image17.jpg"
         },
         {
             "id": 18,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image18.jpg"
+            "description": "description 18",
+            "available": "available",
+            "image": "./images/image18.jpg"
         },
         {
             "id": 19,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image19.jpg"
+            "description": "description 19",
+            "available": "Booked",
+            "image": "./images/image19.jpg"
         },
         {
             "id": 20,
             "title": "Naivasha cottage",
-            "description": "description 2",
-            "image": "./image/image20.jpg"
+            "description": "description 20",
+            "available": "available",
+            "image": "./images/image20.jpg"
         }
     ]
 }
