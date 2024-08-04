@@ -17,20 +17,18 @@ function displayAirbnbs(airbnb){
     img.setAttribute('width', "300")
     img.setAttribute('height', "200")
 
-
-
     const description = document.createElement("p")
     description.className = ""
     description.textContent = airbnb.description
+
+    const availability = document.createElement("button")
+    availability.className = "btn btn-primary"
+    availability.textContent = airbnb.available
     
     const li = document.createElement('li')
     li.appendChild(img)
     li.appendChild(description)
-    // li.textContent= (airbnb.title).toUpperCase()
-
-    // const taskText = document.createElement('span');
-    // taskText.textContent = airbnb.available;
-    // listHolder.appendChild(taskText)
+    li.appendChild(availability)
 
     listHolder.style.cursor = "pointer"
     listHolder.appendChild(li)

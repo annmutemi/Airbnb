@@ -30,3 +30,6 @@ ul{
     color: black;
   }
   
+  div{
+    justify-content: space-between;
+  }
