@@ -14,7 +14,7 @@ As a user:-
 2. rental property images
 
 # The API data I will be using
-- To be updated
+- http://localhost:3000/airbnbs
 
 # Challenges to expect
 1. Finding a suitable API
